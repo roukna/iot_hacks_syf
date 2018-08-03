@@ -26,4 +26,4 @@ while True:
         pygame.mixer.music.play()
         while pygame.mixer.music.get_busy() == True:
             continue
-#   time.sleep(0.25)
+   time.sleep(0.25)
